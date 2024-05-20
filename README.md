@@ -55,4 +55,4 @@ npm start
 The Firebase configuration is stored in the .env file and loaded as environment variables in firebase.js. Ensure that the .env file is added to your .gitignore to keep your configuration details secure.
 
 ## Licence
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](https://github.com/MarshallOkafor/chat-app-firebase/blob/master/LICENSE).
